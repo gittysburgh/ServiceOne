@@ -1,0 +1,6 @@
+[submodule "CommonSharedReference"]
+	path = CommonSharedReference
+	url = https://github.com/gittysburgh/CommonSharedReference.git
+[submodule "SharedLibrariesService"]
+	path = SharedLibrariesService
+	url = https://github.com/gittysburgh/SharedLibrariesService.git
